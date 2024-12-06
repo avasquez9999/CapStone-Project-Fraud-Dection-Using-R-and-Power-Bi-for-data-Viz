@@ -1,5 +1,5 @@
 **##Capstone Project Fraud Detection Using R and Power Bi**
-
+Includes data sets, r script, presentation, report, and power bi visualizations.
 
 **Machine Learning Capstone project: Credit Card Approval.**
 
@@ -10,4 +10,8 @@
 **Solution:** Implemented KNN, Logistic Regression, and Classification trees with ensembles (Random Forest, XGBoost) for creditworthiness prediction. Employed data cleaning, feature engineering, and various sampling techniques (under, over, synthetic, SMote) to address data imbalance.  Engineered a dependent variable through feature engineering by pivoting the data longer and summarising how many months customers were overdue in a year. The metric we used was if a customer was overdue 6 months in one year they were not credit-worthy and were considered delinquent.
 
 **Outcome:** Created a model with accuracy (95%) but models couldn't outperform the NIR baseline accuracy (99.5%), so I created a novel feature predicting "late fee " customers to gain valuable insights despite having severe data limitations 
+
+**Skills:** R, PowerBI, Feature engineering, data cleaning, data wrangling, data visualization, problem-solving, working with imbalanced data, Machine learning, Presentation, Written Report, Classification models, Ensemble method, bagging, bootstrapping
+
+
 
